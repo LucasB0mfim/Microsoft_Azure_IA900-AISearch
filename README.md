@@ -87,3 +87,7 @@ Para utilizarmos esse recurso é necessário criarmos três recursos distintos.
 - Melhorar a relevância e precisão dos resultados da pesquisa para aumentar a satisfação do usuário.
 - Implementar recursos de pesquisa avançados, como sugestões de pesquisa, correção automática e realce de sintaxe para melhorar a experiência do usuário.
 - Otimizar a velocidade de pesquisa e resposta para garantir uma experiência fluida e responsiva.
+
+#
+
+### **Vale lembrar de que isso é um laboratório de estudos, caso também pretenda realizar esse lab, não se esqueça de excluir TUDO assim que terminar para não ser cobrado posteriormente!!**
